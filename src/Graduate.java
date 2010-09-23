@@ -1,4 +1,4 @@
-
+// BLAAJAAHHAJA
 public class Graduate extends Student{
 
 	public Graduate(String studentName) {
