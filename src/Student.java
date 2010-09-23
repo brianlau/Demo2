@@ -1,4 +1,4 @@
-
+//omggmggshksjljsljlskjfikfgrtgfoipyedj
 public abstract class Student {
 	String name;
 	
